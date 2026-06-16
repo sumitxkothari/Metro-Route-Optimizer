@@ -2,6 +2,7 @@
 
 Welcome to the **Hyderabad Metro Route Optimizer** – a smart and intuitive Streamlit web app that helps commuters find optimal metro routes between any two stations in Hyderabad. Whether you're a daily traveler or new to the city, this app makes it easy to navigate the metro like a pro!
 
+🚀 **[Live Demo →](https://metro-route-optimizer-kneddsyj8kbg5utky27gah.streamlit.app)** | [![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/YOURUSERNAME/metro_route_optimizer)
 
 ## 🧠 Features
 
